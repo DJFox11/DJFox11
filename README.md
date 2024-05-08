@@ -20,4 +20,5 @@ I'm **DJ_Fox11**, a passionate creator based in Victoria, Australia.
 
 ## Get in Touch
 - 📧 Email: evanmcnicol05@gmail.com
+- 🎮 Discord: dj_fox11
 - 🌐 Website: [www.djfox11.com](https://www.djfox11.com)
