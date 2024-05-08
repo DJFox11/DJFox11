@@ -14,9 +14,9 @@ I'm **DJ_Fox11**, a passionate creator based in Victoria, Australia.
 - **Other Skills**: Gaming, and avid model ripper.
 
 ## Projects
-- [Model Ripping](link): Ripping all sorts of models from a wide-range of games.
-- [Personal Website (WIP)](link): Building a personal website from the ground up.
-- [Game Ripping Guides](link): Easy-to-follow tutorials for ripping models from your favourite games.
+- [Model Ripping](https://www.models-resource.com/submitter/DJ_Fox11/): Ripping all sorts of models from a wide-range of games.
+- [Personal Website (WIP)](https://djfox11.com): Building a personal website from the ground up.
+- [Game Ripping Guides](https://www.djfox11.com/ripping-tuts/ripping)): Easy-to-follow tutorials for ripping models from your favourite games.
 
 ## Get in Touch
 - 📧 Email: evanmcnicol05@gmail.com
