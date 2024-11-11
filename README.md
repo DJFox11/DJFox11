@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m working on a website all around Super Mario Odyssey<br>🇦🇺 Based in Melbourne, Australia<br>🌐 Web developer for 4 years and counting!
+🇦🇺 Based in Melbourne, Australia<br>🌐 Web developer for 4 years and counting!
 
 
 ## 🌐 Socials:
